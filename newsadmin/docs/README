@@ -1,0 +1,31 @@
+	phpMyNewsletter v0.6.6 installation instruction
+------------------------------------------------------------
+		 < gregory.kokanosky@free.fr >
+	http://gregory.kokanosky.free.fr/phpmynewsletter/
+
+----[0 License
+This script is released under the GNU General Public License
+http://www.gnu.org/
+
+----[1 write permission 
+Give the permission to write the "include" directory to the web server.
+
+
+
+----[2 installation process
+- Go to http://www.yourdomain.com/path/admin.php3
+- Setup the newsletter
+
+
+----[3 Newsletter Admin Area
+- Go to http://www.yourdomain.com/path/admin.php3
+- Fill the field with your password (set in during the installation process)
+- Enjoy!
+
+
+----[3 Thanks to
+- JP, vince, stombi 
+- logon
+- Nico 
+- lea
+- pugi

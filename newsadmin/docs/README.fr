@@ -1,0 +1,47 @@
+Instructions pour l'installation de phpMyNewsletter v0.6.6
+----------------------------------------------------------------
+		 < gregory.kokanosky@free.fr >
+		http://gregory.kokanosky.free.fr/phpmynewletter/
+
+
+
+----[0 Avant Propos
+- Ce script php de gestion de lettre d'information est livré sous licence GPL.
+http://www.gnu.org/
+
+----[1 Droit sur le repertoire include
+- IMPORTANT : 
+Donner les droits d'ecritures au serveur web sur repertoire include
+
+
+
+----[2 Installation
+- rendez-vous à l'adresse  http://www.votreserver.com/chemin/admin.php3
+- suivez le guide.
+
+
+----[3 Connexion à la zone d'administration
+- Pour l'administration , rendez vous à l'adresse :
+	http://www.votreserver.com/path/admin.php3
+	(Où path représente le chemin jusqu'à phpMyNewsletter)
+
+
+
+----[4 Remerciements
+- Merci à JP, stombi, vince pour leur super sites sur php.
+- Nico pour ses critiques (toujours constructives :-)
+- Logon pour le code du formulaire d'identification.
+- Et tous ceux qui m'ont écris pour me signaler des bugs.
+
+
+----[5 Et pour finir
+SI vous utilisez ce script envoyez moi un petit mail, ca fait toujours plaisir :-)
+Si vous pensez à une fonction qui _doit_ être dispo dans phpMyNewsletter, n'hésitez pas.
+
+ 
+
+
+
+
+
+

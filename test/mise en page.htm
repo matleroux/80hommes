@@ -1,0 +1,60 @@
+<html>
+<head>
+<title>newsletter</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000">
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="160" align="center">
+                        <tr>
+                          <td width="100%">
+                             <table border="0" cellspacing="0" cellpadding="0" align="center" width="100%">
+                                <tr>
+                                   <td height="5px">
+                                </tr>
+                                <tr>
+                                   
+          <td align="center" valign="middle" height="20px"> <span style="font-family:Verdana;font-size:10px;font-weight:bold;"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Votre 
+            email :</b></font></span> </td>
+                                <tr>
+                                   <td align="center">
+                                      <form method="post">
+                                      <input type="text" name="newsletter_email" value="<?php echo $newsletter_email; ?>" size="30">
+                                   </td>
+                                </tr>
+                                <tr>
+                                   <td>
+                                      <table border="0" cellspacing="0" cellpadding="0" width="100%">
+                                      <tr>
+                                      <td width="20px"></td>
+                                      <td>
+                                      <input type="radio" name="newsletter_choice" value="inscribe" <?php if($newsletter_choice!="unscribe") { echo " checked"; }?>>
+                  <font face="Verdana, Arial, Helvetica, sans-serif">Inscription 
+                  </font><br>
+                  <br>
+                  <input type="radio" name="newsletter_choice" value="unscribe" <?php if($newsletter_choice=="unscribe") { echo " checked"; }?>>
+                  <font face="Verdana, Arial, Helvetica, sans-serif">Désinscription 
+                  </font></td>
+                                      </tr>
+                                      </table>
+                                   </td>
+                                </tr>
+                                <tr>
+                                   <td height="10px"> </td>
+                                </tr>
+                                <tr>
+                                   
+          <td align="center"> 
+            <input type="submit" name="button_newsletter" value="S'inscrire">
+            </form> </td>
+                                </tr>
+                                <tr>
+                                   <td height="5px"></td>
+                                </tr>
+                             </table>
+                          </td>
+                        </tr>
+                      </table>
+
+</body>
+</html>

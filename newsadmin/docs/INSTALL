@@ -1,0 +1,20 @@
+--= phpMyNewsletter installation guide =--
+
+
+Needed:
+------ 
+	- a webserver (eg: apache)
+	- a MySQL server
+	- PHP (3 o 4)
+	
+* Unpack the archive, and upload the files on the webserver.
+* If you can, give to the webserver the writting permission on include/ directory (with chmod command)
+  if you can't, that's not really a problem.
+* point your web browser to http://www.yourhost.com/yourdir/phpMyNewsletter/admin.php 
+* Choose your language, and then fill out all the fields, click on "ok" button
+* Now you should be at the admin area login screen, fill out the filed with your chosen password,
+* Enjoy
+
+
+Help Forum : http://gregory.kokanosky.free.fr/phpmynewsletter/
+

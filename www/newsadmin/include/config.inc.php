@@ -1,0 +1,1 @@
+<? $f_host="212.43.245.123";$f_user="darnil1";$f_passwd="jingle";$f_db="darnil1";$f_tableconfig="pmnl_config"; ?>
